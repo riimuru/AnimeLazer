@@ -11,7 +11,7 @@
 ## Screenshots
 
 ![ScreenShot](/public/screenshot1.png)
-![Screenshot](/public/screenshot2.png)
+![Screenshot](/public/Screenshot2.png)
 ![Screenshot](/public/screenshot3.png)
 
 ## Features
