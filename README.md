@@ -1,6 +1,8 @@
 <p align="center"><a href="https://github.com/riimuru/AnimeLazerWeb/"><img src="public/logo.png" width="150"></a></p>
 
-# Anime Web App with Reactjs.
+<h1 align="center"><b>Anime Lazer</b></h2>
+<h3 align="center">Ad Free Anime Streaming web app to give you a better experience.</h4>
+<hr>
 
 ## Check it live here
 
@@ -11,8 +13,6 @@
 ![ScreenShot](/public/screenshot1.png)
 ![Screenshot](/public/screenshot2.png)
 ![Screenshot](/public/screenshot3.png)
-
-Ad Free Anime Streaming web app to give you a better experience.
 
 ## Features
 
